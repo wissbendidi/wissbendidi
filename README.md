@@ -15,7 +15,7 @@
 
 ### Let's connect!  
 - 📫 Reach out anytime — whether to talk tech, chess strategies, or swap poems.  
-- 🌐 [LinkedIn](https://linkedin.com/in/wissal-bendidi)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wissal-bendidi-8b4810168/)
 
 ---
 
