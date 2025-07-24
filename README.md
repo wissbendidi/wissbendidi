@@ -18,6 +18,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ---
 
@@ -28,7 +34,7 @@
 
 ### Let's connect!  
 - 📫 Reach out anytime — whether to talk tech, chess strategies, or swap poems.  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/wissal-bendidi-8b4810168/) | <3 [instagram] (https://www.instagram.com/wiss_bendidi__/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wissal-bendidi-8b4810168/) | 📸 [Instagram](https://www.instagram.com/wiss_bendidi__/)  
 
 ---
 
