@@ -13,9 +13,22 @@
 
 ---
 
+### 🛠️ Tech & Tools  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+
+---
+
+### 📈 GitHub Stats  
+![Wissal's GitHub stats](https://github-readme-stats.vercel.app/api?username=wissbendidi&show_icons=true&theme=radical)
+
+---
+
 ### Let's connect!  
 - 📫 Reach out anytime — whether to talk tech, chess strategies, or swap poems.  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/wissal-bendidi-8b4810168/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/wissal-bendidi-8b4810168/) | <3 [instagram] (https://www.instagram.com/wiss_bendidi__/)
 
 ---
 
@@ -24,3 +37,9 @@
 ---
 
 Thanks for stopping by! Feel free to check out my projects below and join me on this adventure. 🚀
+
+---
+
+### 🎮 Fun Visual: Side Quest Mode Activated
+
+![Side Quest GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
